@@ -1,3 +1,4 @@
+
 <h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
 
 <p align="center"> 📜 <a href="https://academiapme-my.sharepoint.com/:p:/g/personal/camila_cavalcante_dio_me/EaXyYOjBaFpZjkxhexMo5EcBKMEEAI5t5aHlsTjnBQJlUw?e=nxdB6C"> SLIDES APRESENTADO NO PROJETO </a> 📜 </P>
@@ -150,3 +151,26 @@ Se possível:<br>
 ------------
 
 Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+
+
+Contribuindo
+
+Abstração:
+A abstração permite que você se concentre nos aspectos essenciais de um objeto ou sistema, ignorando detalhes menos importantes. Ela ajuda a simplificar a complexidade, permitindo que você modele e represente entidades do mundo real de forma mais clara e concisa. A abstração permite identificar as características e comportamentos relevantes de um objeto e criar classes que representam essas abstrações. Isso leva a um código mais modular e compreensível, facilitando a manutenção e a evolução do sistema ao longo do tempo.
+
+Encapsulamento:
+O encapsulamento envolve o ocultamento dos detalhes internos de um objeto e a exposição apenas da interface necessária para interagir com ele. Isso promove a segurança, a integridade e a consistência dos dados, evitando acesso e modificação direta aos atributos internos de um objeto. Ao encapsular os detalhes de implementação, você pode controlar o acesso aos atributos e fornecer métodos públicos para interagir com o objeto. Isso facilita a manutenção do código, pois as alterações internas não afetam outros componentes do sistema e permite o uso de técnicas como validação de dados e controle de acesso.
+
+Herança:
+A herança permite criar novas classes baseadas em classes existentes, aproveitando e estendendo seu comportamento e características. Com a herança, você pode criar uma hierarquia de classes, onde as classes derivadas herdam atributos e métodos da classe base e adicionam ou modificam seu próprio comportamento. A herança promove a reutilização de código, evitando a duplicação e a redundância. Além disso, ela facilita a organização e a estruturação do código, pois classes relacionadas podem ser agrupadas em uma hierarquia lógica. A herança também permite a aplicação de polimorfismo, como veremos a seguir.
+
+Polimorfismo:
+O polimorfismo permite que um objeto possa ser tratado de várias maneiras, sendo capaz de assumir diferentes formas e comportamentos. Isso significa que, mesmo que os objetos sejam de tipos diferentes, eles podem ser tratados de forma genérica, através de uma interface comum. O polimorfismo promove a flexibilidade e a extensibilidade do código, permitindo a substituição de objetos sem afetar o código que os utiliza. Isso facilita a implementação de operações genéricas e a extensão de funcionalidades em um sistema. O polimorfismo também permite a criação de código mais genérico, reduzindo a dependência de tipos específicos e aumentando a modularidade e a reusabilidade.
+
+Em resumo, os pilares da programação orientada a objetos são fundamentais para criar um design de código eficiente, modular e reutilizável. Eles fornecem abstração para simplificar a complexidade, encapsulamento para garantir a segurança e a consistência, herança para promover a reutilização de código e polimorfismo para permitir flexibilidade e extensibilidade. Ao aplicar esses princípios corretamente, você pode construir sistemas mais robustos, flexíveis e fáceis de manter.
+
+
+
+
+
+
